@@ -26,8 +26,8 @@ Some of the early adopters have agreed to share their data for research purposes
 
 **Glue Tables**:
 
-- [customer_landing.sql](script/customer_landing.sql)
-- [accelerometer_landing.sql](script/accelerometer_landing.sql)
+- [customer_landing.sql](scripts/customer_landing.sql)
+- [accelerometer_landing.sql](scripts/accelerometer_landing.sql)
 
 **Athena**:
 Landing Zone data query results
